@@ -1,0 +1,10 @@
+﻿# Qt Creator lokale Benutzereinstellungen
+*.pro.user
+*.pro.user.*
+
+# Windows & Build-Artefakte
+desktop.ini
+build-*
+*.o
+*.exe
+Makefile*

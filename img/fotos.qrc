@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>addrow.png</file>
+        <file>copyedit.png</file>
+        <file>diropen.png</file>
+        <file>edit.png</file>
+        <file>error.png</file>
+        <file>fileload.png</file>
+        <file>filesave.png</file>
+        <file>fotos.qrc</file>
+        <file>go.png</file>
+        <file>help.png</file>
+        <file>Icons.qrc</file>
+        <file>query.png</file>
+        <file>refresh.png</file>
+        <file>remove.png</file>
+        <file>scheme.png</file>
+        <file>submit.png</file>
+        <file>suchen.png</file>
+        <file>table.png</file>
+        <file>tablesys.png</file>
+        <file>trash.png</file>
+        <file>world.png</file>
+        <file>revert.png</file>
+        <file>addrow (2).png</file>
+        <file>aus_einblenden.png</file>
+        <file>column.png</file>
+        <file>unhide.png</file>
+        <file>anmelden.png</file>
+        <file>kennnummer.png</file>
+        <file>sign in .png</file>
+        <file>database.png</file>
+    </qresource>
+</RCC>
